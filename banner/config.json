@@ -1,0 +1,13 @@
+{
+	"clickurl": "http://www.example.com",
+	"format": "Mobile Skin",
+	"devicesimulator" : "no",
+
+	"size": {
+		"ratio": {
+			"top":2,
+			"main":"full",
+			"bottom":6
+		}
+	}
+}
